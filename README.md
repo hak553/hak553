@@ -1,25 +1,79 @@
-# 💫 About Me:
-From normal human to the code editor! I enjoy solving logical problems and bringing creative ideas to life across different platforms.<br><br>🚀 What I'm building:<br><br>🕹️ Game Design: Crafting interactive experiences and learning game mechanics using Unity and C#.<br><br>📱 Mobile Apps: Developing beautiful, responsive cross-platform applications with Flutter.<br><br>I'm always open to learning new technologies and exploring the intersection of design and code.
+<h1 align="center">مرحباً، أنا محمد رضا 👋</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Flutter+%26+Unity+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mor300h300) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.8td) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mvpJoKeR) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MohammadAcademy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kabtnhamode@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hak553&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hak553&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hak553&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hak553&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  طالب في كلية العلوم - قسم علوم الحاسبات، متخصص في الأمن السيبراني. أدمج بين دراستي الأكاديمية وشغفي في تطوير البرمجيات، الأنظمة، والألعاب المستقلة، وأسعى دائماً لبناء حلول برمجية مبتكرة.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hak553&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me//) 
+<h2 align="center">🛠️ التقنيات والأدوات</h2>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <!-- لغات البرمجة وتطوير التطبيقات -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+</p>
+
+<p align="center">
+  <!-- التصميم والأنظمة -->
+  <img src="https://img.shields.io/badge/Blender-E28743?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
+  <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
+  <img src="https://img.shields.io/badge/CapCut_Pro-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+</p>
+
+---
+
+<h2 align="center">🚀 أبرز المشاريع</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🎮 Flappy Bee</h3>
+      <p>لعبة هواتف ذكية (Pixel-art) مبنية بالكامل لتقديم تجربة لعب ممتعة وتحدي كلاسيكي.</p>
+    </td>
+    <td width="50%">
+      <h3>🧭 Mind Compass</h3>
+      <p>مشروع تفاعلي لصناعة محتوى هادف يعتمد على تصميم شخصيات كرتونية.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 أكاديمية محمد</h3>
+      <p>منصة تعليمية مصغرة لتقديم ملخصات برمجية ورياضية تفاعلية للطلاب.</p>
+    </td>
+    <td width="50%">
+      <h3>💻 C# Course (قريباً)</h3>
+      <p>دورة شاملة ومجانية على يوتيوب لتعليم البرمجة بلغة C# للمبتدئين.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 إحصائيات GitHub</h2>
+
+<div align="center">
+  <!-- استبدل YOUR_GITHUB_USERNAME باسم حسابك الفعلي -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
