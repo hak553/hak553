@@ -6,7 +6,8 @@
 <br>
  
 # 💫 About Me:
-From normal human to the code editor! I enjoy solving logical problems and bringing creative ideas to life across different platforms.<br><br>🚀 *What I'm building?* <br><br> **🕹️ Game Design:** Crafting interactive experiences and learning game mechanics using Unity and C#.<br><br> **📱Mobile Apps:** Developing beautiful, responsive cross-platform applications with Flutter.<br><br>I'm always open to learning new technologies and exploring the intersection of design and code.
+From normal human to the code editor! I enjoy solving logical problems and bringing creative ideas to life across different platforms.<br><br>🚀 *What I'm building?* <br><br> <img src="https://app.lottiefiles.com/animation/a3bd7ab6-30e4-4e7a-ae2c-f744e714957a?channel=web&from=download&panel=download&source=public-animation" alt="Typing SVG" />
+**🕹️ Game Design:** Crafting interactive experiences and learning game mechanics using Unity and C#.<br><br> **📱Mobile Apps:** Developing beautiful, responsive cross-platform applications with Flutter.<br><br>I'm always open to learning new technologies and exploring the intersection of design and code.
 
 <br>
 
