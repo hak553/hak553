@@ -32,13 +32,5 @@ From normal human to the code editor! I enjoy solving logical problems and bring
   
 ### Follow Me on:
 
-<a href="https://www.youtube.com/@MohammadAcademy" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF2C2C?logo=youtube" alt="YouTube" width="10%" style="margin: 0 10px;" />
-  </a>
-  
-<br>  
-<a href="https://www.instagram.com/d.8td" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-F43378?logo=youtube" alt="Instagram" width="10%" style="margin: 0 10px;" />
-  </a>
-  
+<a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF2C2C?logo=youtube" alt="YouTube" width="100" style="margin: 0 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/instagram-F43378?logo=instagram" alt="Instagram" width="100" style="margin: 0 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin" alt="linkedin" width="100" style="margin: 0 10px;" /></a>
 </div>
