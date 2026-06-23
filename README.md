@@ -36,8 +36,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
     <img src="https://img.shields.io/badge/YouTube-FF2C2C?logo=youtube" alt="YouTube" width="10%" style="margin: 0 10px;" />
   </a>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
+<br>  
 <a href="https://www.instagram.com/d.8td" target="_blank">
     <img src="https://img.shields.io/badge/instagram-F43378?logo=youtube" alt="Instagram" width="10%" style="margin: 0 10px;" />
   </a>
