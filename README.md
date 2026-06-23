@@ -27,10 +27,11 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 <div align="right">
-  
-  <br>
-  
+
+<br>
+
 ### Follow Me on:
 
-<a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF2C2C?logo=youtube" alt="YouTube" width="100" style="margin: 0 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/instagram-F43378?logo=instagram" alt="Instagram" width="100" style="margin: 0 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin" alt="linkedin" width="100" style="margin: 0 10px;" /></a>
+<a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </div>
