@@ -34,9 +34,9 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/-YouTube-18181B?style=flat&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/-Instagram-18181B?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-18181B?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_TELEGRAM_LINK" target="_blank"><img src="https://img.shields.io/badge/-Telegram-18181B?style=flat&logo=telegram&logoColor=2CA5E0" alt="Telegram" /></a>
 
+</div>
 
 <a href="https://www.youtube.com/@MohammadAcademy" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/youtube-play.gif" alt="YouTube" width="40"/>
 </a>
 
-</div>
