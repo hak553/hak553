@@ -26,12 +26,12 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 <img src="https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black" alt="Tailscale" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-<div align="right">
+<div align="center">
 
 <br>
 
 ### Follow Me on:
 
-<a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/-YouTube-18181B?style=flat&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/-Instagram-18181B?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-18181B?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_TELEGRAM_LINK" target="_blank"><img src="https://img.shields.io/badge/-Telegram-18181B?style=flat&logo=telegram&logoColor=2CA5E0" alt="Telegram" /></a>
 
 </div>
