@@ -5,7 +5,7 @@
 </div>
 <br>
  
-# <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Sparkles.svg" alt="Unity" /> About Me
+# <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Sparkles.svg" alt="Unity" align="center" /> About Me
 From normal human to the code editor! I enjoy solving logical problems and bringing creative ideas to life across different platforms.<br><br>
  *What I'm building?* <br><br>
 
@@ -42,7 +42,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <br><hr><br>
 
-### 📊 GitHub Stats & Top Languages:
+### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20chart.svg" align="center" /> GitHub Stats & Top Languages:
 
 <div align="center">
   
@@ -54,13 +54,11 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <br><hr><br>
 
-### 💖 Support My Work
+### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Wallet%20_%20Money%20Added.svg" align="center" /> Support Me
 <hr>
 
 <div align="center">
   
-  <!-- زر Ko-fi (كوفي) -->
-  <!-- زر PayPal (باي بال) -->
   <a href="https://github.com/hak553/photoToProfile/blob/main/Visa.jpg" target="_blank">
     <img src="https://img.shields.io/badge/SuperQi-009639?style=for-the-badge&logo=mastercard&logoColor=white" alt="SuperQi" />
   </a>
