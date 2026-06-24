@@ -52,12 +52,12 @@ From normal human to the code editor! I enjoy solving logical problems and bring
     <td width="40%" align="center">
       <a href="https://github.com/hak553/GameChoose" target="_blank">
         <!-- التقط صورة لتطبيقك من الهاتف وارفعها، ثم ضع الرابط هنا -->
-        <img src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" width="100%" alt="GameChoose App">
+        <img src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" width="50%" alt="GameChoose App">
       </a>
     </td>
     <!--Column: App Details-->
     <td width="60%">
-      <h3>📱 GameChoose</h3>
+      <h3> GameChoose</h3>
       <p>"Game Choose" is a fun and fast-paced trivia game designed to test your general knowledge.</p>
       <p><b>Built With:</b> <code>Flutter</code> &nbsp; <code>Dart</code></p>
       <br>
@@ -124,5 +124,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 </div>
 
 <br><br>
+
+
 
 # 🔨**Maintenance My Profile**
