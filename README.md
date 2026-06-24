@@ -48,7 +48,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
   <tr>
     <td>
         <a href="https://github.com/hak553/GameChoose" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak553&repo=GameChoose&theme=tokyonight&bg_color=0D1117&title_color=66E0FF&text_color=c9c9c9&icon_color=66E0FF&hide_border=true" alt="Second Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak553&repo=GameChoose&theme=tokyonight&bg_color=0D1117&title_color=66E0FF&text_color=c9c9c9&icon_color=66E0FF&hide_border=true&v=1" alt="Second Project" />
   </a>
     </td>
   </tr>
