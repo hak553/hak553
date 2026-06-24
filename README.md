@@ -134,6 +134,15 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <br><hr><br>
 
+### 🐍 GitHub Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hak553/hak553/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+</div>
+
+
+
+<br><hr><br>
+
 ### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Wallet%20_%20Money%20Added.svg" align="center" /> Support Me
 
 <div align="center">
