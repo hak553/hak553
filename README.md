@@ -14,7 +14,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 <br><br>
 # 💻 Tools I Use It:
 
-<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="6%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />
+<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />
 
 <br><br>
 **📱 Mobile & Game Development:**
