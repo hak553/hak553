@@ -8,17 +8,24 @@
 # <img width="5%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/sparkles_2728.gif" alt="Unity" /> About Me
 From normal human to the code editor! I enjoy solving logical problems and bringing creative ideas to life across different platforms.<br><br>
  *What I'm building?* <br><br>
-**<img width="5%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/chess-pawn_265f-fe0f.gif" alt="Unity" /> Game Design:** Crafting interactive experiences and learning game mechanics using Unity and C#.<br><br> **<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/iPhone.svg" alt="Unity" /> Mobile Apps:** Developing beautiful, responsive cross-platform applications with Flutter.<br><br>I'm always open to learning new technologies and exploring the intersection of design and code.
+**<img width="5%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/chess-pawn_265f-fe0f.gif" alt="Unity" /> Game Design:** Crafting interactive experiences and learning game mechanics using Unity and C#.<br><br> **<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/iPhone.svg" alt="Unity" /> Mobile Apps:** Developing beautiful, responsive cross-platform applications with Flutter.<br><br>
+
+<div align="center">
+  
+  > I'm always open to learning new technologies and exploring the intersection of design and code.
+  
+  </div>
+
 
 <br>
 
-<div align="right">
+<div align="center">
 
 <br>
 
 ### Follow Me on
 
-<a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/-YouTube-18181B?style=social&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/-Instagram-18181B?style=social&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-18181B?style=social&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/Mohammad_Academy" target="_blank"><img src="https://img.shields.io/badge/-Telegram-18181B?style=social&logo=telegram&logoColor=2CA5E0" alt="Telegram" /></a>
+<a href="https://www.youtube.com/@MohammadAcademy" target="_blank"><img src="https://img.shields.io/badge/-YouTube-18181B?style=social&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/d.8td" target="_blank"><img src="https://img.shields.io/badge/-Instagram-18181B?style=social&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mvpjoker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-18181B?style=social&logo=google&logoColor=0077B5" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/Mohammad_Academy" target="_blank"><img src="https://img.shields.io/badge/-Telegram-18181B?style=social&logo=telegram&logoColor=2CA5E0" alt="Telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hak553" target="_blank"><img src="https://img.shields.io/badge/-github-ffffff?style=social&logo=github&logoColor=2CA5E0" alt="Telegram" /></a>
 
 </div>
 
