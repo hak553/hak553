@@ -144,8 +144,10 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 </div>
 
-<br><hr><br>
+<br><hr>
 
-
-
-# 🔨**Maintenance My Profile**
+<div align="center">
+  <h3> <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/AI%20Searching.svg" align="center" /> Thanks for visiting my profile! <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/AI%20Searching.svg" align="center" /></h3>
+  <p>I appreciate your time and interest. If you liked what I build, feel free to reach out or follow my upcoming projects.</p>
+  <p><b>Happy Coding!</b><img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/code.png" alt="Bee" align="center" /> </p>
+</div>
