@@ -8,13 +8,16 @@
 # <img width="5%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/sparkles_2728.gif" alt="Unity" /> About Me
 From normal human to the code editor! I enjoy solving logical problems and bringing creative ideas to life across different platforms.<br><br>
  *What I'm building?* <br><br>
+
+<img align="right" width="280" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+ 
 **<img width="5%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/chess-pawn_265f-fe0f.gif" alt="Unity" /> Game Design:** Crafting interactive experiences and learning game mechanics using Unity and C#.<br><br> **<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/iPhone.svg" alt="Unity" /> Mobile Apps:** Developing beautiful, responsive cross-platform applications with Flutter.<br><br>
 
 <div align="center">
   
   > I'm always open to learning new technologies and exploring the intersection of design and code.
   
-  </div>
+</div>
 
 
 <br>
@@ -34,7 +37,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
   
 ## <img width="5%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/laptop_1f4bb.gif" alt="Unity" /> Languages & Tools
 
-<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/visual-studio-code.svg" alt="VCode" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/capcut-dark.png" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/c-sharp.png" alt="c-sharp" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-c%2B%2B-96.png" alt="C-plusplus" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/terminal.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/logo.png" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/tailscale-light.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/GitHub%20icon.svg" alt="Terminal" />
+<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/visual-studio-code.svg" alt="VCode" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/capcut-dark.png" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/c-sharp.png" alt="c-sharp" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-c%2B%2B-96.png" alt="C-plusplus" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/terminal.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/logo.png" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/tailscale-light.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/GitHub%20icon.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/dart.svg" alt="Terminal" />
 
 </div>
 
