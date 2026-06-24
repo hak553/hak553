@@ -42,7 +42,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <br><hr><br>
 
-### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20chart.svg" align="center" /> GitHub Stats & Top Languages:
+### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20.svg" align="center" /> GitHub Stats & Top Languages:
 
 <div align="center">
   
