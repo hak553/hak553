@@ -42,7 +42,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <hr><br>
 
-### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/iPhone.svg" alt="Unity" /> Flutter
+### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/iPhone.svg" alt="Unity" align="center" /> Flutter
 
 <table>
   <tr>
@@ -58,7 +58,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <hr><br>
 
-### 🎮 My Games
+###  <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Controller.svg" alt="Unity" align="center" /> My Games
 
 <table align="center" width="100%">
   <!--Row-->
@@ -72,7 +72,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
     </td>
     <!--Column-->
     <td width="60%">
-      <h3>🐝 Flappy Bee</h3>
+      <h3><img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Bee%20looking.svg" alt="Unity" align="center" /> Flappy Bee</h3>
       <p>A fun and challenging arcade game testing your reflexes and timing. Navigate through the obstacles to achieve the highest score!</p>
       <p><b>Built With:</b> <code>Unity</code> &nbsp; <code>C#</code></p>
       <br>
