@@ -40,58 +40,9 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/visual-studio-code.svg" alt="VCode" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/capcut-dark.png" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/c-sharp.png" alt="c-sharp" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-c%2B%2B-96.png" alt="C-plusplus" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/terminal.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/logo.png" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/tailscale-light.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/GitHub%20icon.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/dart.svg" alt="Terminal" />
 
-<br><hr><br>
-
-### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20.svg" align="center" /> GitHub Stats & Top Languages:
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=hak553&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66E0FF" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66E0FF" alt="Top Languages" />
-
-</div>
-
-<br><hr><br>
-
-### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Wallet%20_%20Money%20Added.svg" align="center" /> Support Me
-<hr>
-
-<div align="center">
-  
-  <a href="https://github.com/hak553/photoToProfile/blob/main/Visa.jpg" target="_blank">
-    <img src="https://img.shields.io/badge/SuperQi-009639?style=for-the-badge&logo=mastercard&logoColor=white" alt="SuperQi" />
-  </a>
-
-</div>
-
-<br>
-
-<br>
+<hr><br>
 
 ### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/iPhone.svg" alt="Unity" /> Flutter
-<hr>
-
-<div align="center">
-<!-- 
-  <a href="https://github.com/hak553/Flappy-Bee" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak553&repo=Flappy-Bee&theme=tokyonight&bg_color=0D1117&title_color=66E0FF&text_color=c9c9c9&icon_color=66E0FF&hide_border=true" alt="Flappy Bee Project" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
--->
-  <a href="https://github.com/hak553/GameChoose" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak553&repo=GameChoose&theme=tokyonight&bg_color=0D1117&title_color=66E0FF&text_color=c9c9c9&icon_color=66E0FF&hide_border=true" alt="Second Project" />
-  </a>
-
-</div>
-
-<br>
-
-<br>
-
-### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/iPhone.svg" alt="Unity" /> Flutter
-
-<hr>
 
 <table>
   <tr>
@@ -105,9 +56,9 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 </hr>
 
+<hr><br>
 
 ### 🎮 My Games
-<hr>
 
 <table align="center" width="100%">
   <!--Row-->
@@ -139,6 +90,32 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 </table>
 
-<br>
+<br><hr><br>
+
+
+### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20.svg" align="center" /> GitHub Stats & Top Languages:
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hak553&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66E0FF" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66E0FF" alt="Top Languages" />
+
+</div>
+
+<br><hr><br>
+
+### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Wallet%20_%20Money%20Added.svg" align="center" /> Support Me
+<hr>
+
+<div align="center">
+  
+  <a href="https://github.com/hak553/photoToProfile/blob/main/Visa.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/SuperQi-009639?style=for-the-badge&logo=mastercard&logoColor=white" alt="SuperQi" />
+  </a>
+
+</div>
+
+<br><br>
 
 # 🔨**Maintenance My Profile**
