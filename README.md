@@ -12,14 +12,16 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 <br>
 
 <br><br>
-# 💻 Tech Stack & Tools:
+# 💻 Tools I Use It:
 
+<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="6%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />
+
+<br><br>
 **📱 Mobile & Game Development:**
 <br>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+
+<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/c-sharp.png" alt="C-Sharp" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/dart.svg" alt="dart" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="6%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />
+
 
 **🖥️ Servers & System Administration:**
 <br>
