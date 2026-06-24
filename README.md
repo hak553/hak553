@@ -39,22 +39,20 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 <img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/visual-studio-code.svg" alt="VCode" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/capcut-dark.png" alt="VS" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/c-sharp.png" alt="c-sharp" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-c%2B%2B-96.png" alt="C-plusplus" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/terminal.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/logo.png" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/tailscale-light.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/GitHub%20icon.svg" alt="Terminal" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="10%" src="https://github.com/hak553/photoToProfile/blob/main/dart.svg" alt="Terminal" />
 
+<br>
+
+### 📊 GitHub Stats & Top Languages:
+
+<div align="center">
+  
+  <!-- بطاقة الإحصائيات العامة (النجوم، الـ Commits، وغيرها) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hak553&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66E0FF" alt="GitHub Stats" />
+
+  <!-- بطاقة اللغات الأكثر استخداماً -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66E0FF" alt="Top Languages" />
+
 </div>
 
-<br><br>
-**📱 Mobile & Game Development:**
 <br>
-
-<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/c-sharp.png" alt="C-Sharp" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/icons8-unity-hub-96.png" alt="Unity" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/dart.svg" alt="dart" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="6%" src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" alt="Flutter" />
-
-
-**🖥️ Servers & System Administration:**
-<br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black" alt="Tailscale" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-
-
 
 # 🔨**Maintenance My Profile**
