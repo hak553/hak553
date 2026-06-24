@@ -49,14 +49,14 @@ From normal human to the code editor! I enjoy solving logical problems and bring
   <!--Row: GameChoose App-->
   <tr>
     <!--Column: App Image-->
-    <td width="40%" align="center">
+    <td width="45%" align="center">
       <a href="https://github.com/hak553/GameChoose" target="_blank">
         <!-- التقط صورة لتطبيقك من الهاتف وارفعها، ثم ضع الرابط هنا -->
         <img src="https://github.com/hak553/photoToProfile/blob/main/flutter.svg" width="50%" alt="GameChoose App">
       </a>
     </td>
     <!--Column: App Details-->
-    <td width="60%">
+    <td width="55%">
       <h3> GameChoose</h3>
       <p>"Game Choose" is a fun and fast-paced trivia game designed to test your general knowledge.</p>
       <p><b>Built With:</b> <code>Flutter</code> &nbsp; <code>Dart</code></p>
@@ -76,13 +76,13 @@ From normal human to the code editor! I enjoy solving logical problems and bring
   <!--Row-->
   <tr>
     <!--Column-->
-    <td width="40%" align="center">
+    <td width="45%" align="center">
       <a href="https://mvpjoker-dev.itch.io/flappybee" target="_blank">
         <img src="https://github.com/hak553/photoToProfile/blob/main/Glj8F%2B.jpg" width="100%" alt="Flappy Bee">
       </a>
     </td>
     <!--Column-->
-    <td width="60%">
+    <td width="55%">
       <h3><img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Bee%20looking.svg" alt="Bee" align="center" /> Flappy Bee</h3>
       <p>A fun and challenging arcade game testing your reflexes and timing. Navigate through the obstacles to achieve the highest score!</p>
       <p><b>Built With:</b> <code>Unity</code> &nbsp; <code>C#</code></p>
@@ -90,7 +90,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
       <a href="https://mvpjoker-dev.itch.io/flappybee" target="_blank">
         <img src="https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on itch.io" />
       </a>
-      &nbsp;
+      <br><br>
       <a href="https://mvpjoker-dev.itch.io" target="_blank">
         <img src="https://img.shields.io/badge/My_Account-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="My Account" />
       </a>
