@@ -5,7 +5,7 @@
 </div>
 <br>
  
-# <img width="5%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/sparkles_2728.gif" alt="Unity" /> About Me
+# <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Sparkles.svg" alt="Unity" /> About Me
 From normal human to the code editor! I enjoy solving logical problems and bringing creative ideas to life across different platforms.<br><br>
  *What I'm building?* <br><br>
 
