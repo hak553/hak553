@@ -99,7 +99,28 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 </table>
 
 <br><hr><br>
+### <img width="5%" src="https://github.com/hak553/photoToProfile/blob/main/Sparkles.svg" alt="Education" align="center" /> Community & Teaching
 
+<table align="center" width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://github.com/hak553/photoToProfile/blob/main/logoChannel.png" width="80" alt="Academy Logo" />
+    </td>
+    <td width="80%">
+      <h3>💡 Mohammad Academy</h3>
+      <p>Building an educational community to share programming knowledge, game development tutorials, and tech tips.</p>
+      <a href="https://www.youtube.com/@MohammadAcademy" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      </a>
+      <br><br>
+      <a href="https://t.me/Mohammad_Academy" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><hr><br>
 
 ### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20.svg" align="center" /> GitHub Stats & Top Languages:
 
@@ -123,7 +144,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
 
 </div>
 
-<br><br>
+<br><hr><br>
 
 
 
