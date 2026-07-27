@@ -118,7 +118,7 @@ From normal human to the code editor! I enjoy solving logical problems and bring
       </a>
   <br><br>
       <a href="https://github.com/hak553/Mohammad-Academy" target="_blank">
-        <img src="https://img.shields.io/badge/Source code-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Telegram" />
       </a>
     </td>
   </tr>
